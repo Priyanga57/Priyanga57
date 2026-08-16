@@ -12,7 +12,7 @@
 
 ---
 
-## A LITTLE HUMAN
+## I'm A
 
 * 🎓 B.Tech — Artificial Intelligence & Data Science
 * 🇮🇳 Bengaluru,Karnataka
