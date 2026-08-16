@@ -12,31 +12,14 @@
 
 ---
 
-## THE PERSON BEHIND THE DATA
+## A LITTLE HUMAN
 
-I'm **Priyanga**, a B.Tech graduate in **Artificial Intelligence & Data Science** who enjoys solving problems through data.
-
-I don't want to just build dashboards that look good.
-
-I want to understand:
-
-```text
-        RAW DATA
-           ↓
-      CLEAN & PREPARE
-           ↓
-        ANALYZE
-           ↓
-      FIND PATTERNS
-           ↓
-       VISUALIZE
-           ↓
-    BUSINESS INSIGHTS
-           ↓
-       DECISIONS
-```
-
-My current focus is building practical solutions across **Data Analytics, Business Intelligence, Data Science and AI**.
+* 🎓 B.Tech — Artificial Intelligence & Data Science
+* 🇮🇳 Bengaluru,Karnataka
+* 🔍 Curious about data, technology and business
+* 🧠 Constantly learning
+* 🚀 Building projects instead of only collecting certificates
+* ☕ Powered by curiosity and questionable amounts of debugging
 
 ---
 
@@ -187,16 +170,34 @@ I'm particularly interested in building systems that don't stop at analysis but 
 
 ---
 
-## A LITTLE HUMAN
+## THE PERSON BEHIND THE DATA
 
-* 🎓 B.Tech — Artificial Intelligence & Data Science
-* 🇮🇳 Tamil Nadu, India
-* 🔍 Curious about data, technology and business
-* 🧠 Constantly learning
-* 🚀 Building projects instead of only collecting certificates
-* ☕ Powered by curiosity and questionable amounts of debugging
+I'm **Priyanga**, a B.Tech graduate in **Artificial Intelligence & Data Science** who enjoys solving problems through data.
+
+I don't want to just build dashboards that look good.
+
+I want to understand:
+
+```text
+        RAW DATA
+           ↓
+      CLEAN & PREPARE
+           ↓
+        ANALYZE
+           ↓
+      FIND PATTERNS
+           ↓
+       VISUALIZE
+           ↓
+    BUSINESS INSIGHTS
+           ↓
+       DECISIONS
+```
+
+My current focus is building practical solutions across **Data Analytics, Business Intelligence, Data Science and AI**.
 
 ---
+
 
 ## LET'S CONNECT
 
