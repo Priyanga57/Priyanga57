@@ -1,4 +1,4 @@
-# ⚡ PRIYANGA V S
+# ✨ PRIYANGA V S
 
 ### `DATA ANALYST` · `DATA SCIENCE` · `BUSINESS INTELLIGENCE`
 
@@ -12,7 +12,7 @@
 
 ---
 
-## ◈ 01 — THE PERSON BEHIND THE DATA
+## THE PERSON BEHIND THE DATA
 
 I'm **Priyanga**, a B.Tech graduate in **Artificial Intelligence & Data Science** who enjoys solving problems through data.
 
@@ -40,7 +40,7 @@ My current focus is building practical solutions across **Data Analytics, Busine
 
 ---
 
-## ◈ 02 — MY DATA TOOLBOX
+## MY DATA TOOLBOX
 
 ### 🐍 PROGRAMMING & DATA
 
@@ -60,7 +60,7 @@ My current focus is building practical solutions across **Data Analytics, Busine
 
 ---
 
-## ◈ 03 — EXPLORE MY WORK
+## EXPLORE MY WORK
 
 I believe the best way to understand what I can do is to **look at what I've built**.
 
@@ -78,7 +78,7 @@ My repositories contain projects, experiments, dashboards, automation systems, d
 
 ---
 
-## ◈ 04 — WHAT I ACTUALLY ENJOY
+## WHAT I ACTUALLY ENJOY
 
 ```text
                     DATA
@@ -98,7 +98,7 @@ I particularly enjoy problems where the data is messy, the answer isn't obvious,
 
 ---
 
-## ◈ 05 — CURRENTLY EXPLORING
+## ◈ CURRENTLY EXPLORING
 
 ```text
 ┌─────────────────────────────────────────────────────┐
@@ -123,7 +123,7 @@ The goal is to become someone who can take a problem from **question → data �
 
 ---
 
-## ◈ 06 — MY APPROACH
+## MY APPROACH
 
 > ### **"Don't just report the number. Find out why it moved."**
 
@@ -147,7 +147,7 @@ That mindset is what I want to bring into every analytics project.
 
 ---
 
-## ◈ 07 — BEYOND THE NOTEBOOK
+##  BEYOND THE NOTEBOOK
 
 I'm interested in the intersection of:
 
@@ -165,7 +165,7 @@ I'm particularly interested in building systems that don't stop at analysis but 
 
 ---
 
-## ◈ 08 — CURRENT MISSION
+## CURRENT MISSION
 
 ```text
 ┌──────────────────────────────────────────────┐
@@ -187,7 +187,7 @@ I'm particularly interested in building systems that don't stop at analysis but 
 
 ---
 
-## ◈ 09 — A LITTLE HUMAN
+## A LITTLE HUMAN
 
 * 🎓 B.Tech — Artificial Intelligence & Data Science
 * 🇮🇳 Tamil Nadu, India
@@ -198,7 +198,7 @@ I'm particularly interested in building systems that don't stop at analysis but 
 
 ---
 
-## ◈ 10 — LET'S CONNECT
+## LET'S CONNECT
 
 If you're interested in **Data Analytics, Business Intelligence, AI, Machine Learning or interesting data problems**, feel free to connect.
 
