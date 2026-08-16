@@ -15,7 +15,7 @@
 ## I'm A
 
 * 🎓 B.Tech — Artificial Intelligence & Data Science
-* 🇮🇳 Bengaluru,Karnataka
+* 📍 Bengaluru,Karnataka
 * 🔍 Curious about data, technology and business
 * 🧠 Constantly learning
 * 🚀 Building projects instead of only collecting certificates
