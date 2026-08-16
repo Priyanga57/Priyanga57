@@ -203,13 +203,24 @@ My current focus is building practical solutions across **Data Analytics, Busine
 
 If you're interested in **Data Analytics, Business Intelligence, AI, Machine Learning or interesting data problems**, feel free to connect.
 
-**LinkedIn:** https://www.linkedin.com/in/priyangavs
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyangavs">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:priyangaa7512@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Priyanga57">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://priyangavs.vercel.app/">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" alt="Portfolio"/>
+  </a>
+</p>
 
-**Email:** [priyangaa7512@gmail.com](mailto:priyangaa7512@gmail.com)
-
-**GitHub:** https://github.com/Priyanga57
-
-**Portfolio:** https://priyangavs.vercel.app/
 
 ---
 
